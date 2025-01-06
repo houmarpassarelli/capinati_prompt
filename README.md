@@ -1,5 +1,5 @@
 # TESTE EM PYTHON
-> O projeto consiste em manipulação de dados via prompt. <br />
+> O projeto consiste em manipulação de dados via prompt de comando. <br />
 > Via prompt, pode-se gerar dados separados por linha ou em uma única linha.<br />
 > O resultado final é gerar um arquivo CSV que pode ser usado como relatório.<br />
 > No arquivo CSV, será retornado os últimos 5 dados ordenado pelo valor total do maior pra o menor.
