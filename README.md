@@ -5,7 +5,7 @@
 > No arquivo CSV, será retornado os últimos 5 dados ordenado pelo valor total do maior pra o menor.
 <br /><br />
 > Está separado em pastas separadas para cada versão: 2.7 e 3.x.
-> Dentro de cada já existem exemplos de arquivos de dados gerados.
+> Dentro de cada pasta já existem arquivos de exemplos com dados gerados.
 
 ## Requisitos
 
