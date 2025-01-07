@@ -1,4 +1,4 @@
-# TESTE EM PYTHON
+# TESTE EM PYTHON E GOLANG
 > O projeto consiste em manipulação de dados via prompt de comando. <br />
 > Via prompt, pode-se gerar dados separados por linha ou em uma única linha.<br />
 > O resultado final é gerar um arquivo CSV que pode ser usado como relatório.<br />
