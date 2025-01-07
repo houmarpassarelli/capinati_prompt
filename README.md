@@ -8,6 +8,20 @@
 > Já o código em Golang está em sua própria pasta em versão única.<br />
 > Dentro de cada pasta já existem arquivos de exemplos com dados gerados.
 
+## Melhorias futuras
+> Uma das idéias que eu tinha foi a criação de uma interface amigável. A mesma foi realizada no outro repositório, pois como eu expliquei lá no readme do mesmo, eu fiz o processo principal para funcionar via prompt.<br />
+> Como melhoria para esse processo é de além de aceitar mais formatos de arquivos com dados, poderia colocar outros tipos de divisões para cada conjunto de informação, como um pipe por exemplo.
+
+## Decisões do projeto
+
+> Como já explicado anteriormente, eu optei por primeiro criar um processo funcional primeiramente via prompt, para depois ter uma interface amigável.<br />
+> Isso não reflete no front, mas aqui eu decidi também criar duas formas de gerar modelo de dados, um sem divisão e que sempre separa os conjuntos dados por uma contagem de 25 pontos, e outro que separa cada conjunto de dados por linha.<br >
+> E por fim, sendo que existem duas formas de gerar os conjuntos de dados, eu precisei implementar no processo de geração do arquivo final, uma decisão para o usuário de qual arquivo ele quer processar, apesar que o resultado é o mesmo.<br />
+> Sobre o Go, eu fiz somente mais do mesmo. A ideia era mostrar meus conhecimentos nas duas linguagens e que me serviu até experiência para mim.
+
+## Desafios encontrados
+> O único desafio mesmo foi em questão de ajustes de versão em relação ao python. Usei um macOS e por vezes você pode ter mais de uma versão instalada do python dependendo da forma que instala, pelo brew ou pelo processo instruído pela organização do python.
+
 ## Requisitos
 
 > python 2.7<br />
